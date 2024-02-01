@@ -1,0 +1,142 @@
+.overskrift {
+    text-align: top;
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 170px;
+}
+
+.boks {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: grey;
+    padding-left: 100px;
+    padding-right: 16000px;
+    padding-top: 10px;
+    padding-bottom: 75px;
+    margin-top: -200px;
+    position: fixed;
+    z-index: 2;
+}
+
+#hjem {
+    display: block;
+    width: 100px;
+    height: 60px;
+    border-radius: 1px;
+    border-color: darkslategray;
+    padding: 1px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: 10px;
+    position: fixed;
+    background-color: white;
+}
+
+#om_meg {
+    display: block;
+    width: 100px;
+    height: 60px;
+    border-radius: 1px;
+    border-color: darkslategray;    
+    padding: 1px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 950px;
+    margin-top: 10px;
+    position: fixed;
+}
+
+#kontakt {
+    display: block;
+    width: 100px;
+    height: 60px;
+    border-radius: 1px;
+    border-color: darkslategray;
+    padding: 1px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 1250px;
+    margin-top: 10px;
+    position: fixed;
+}
+
+.tekst1 {
+    color: blue;
+    margin-left: 170px;
+}
+
+.tekst2 {
+    color: red;
+    margin-left: 170px;
+}
+
+.tekst3 {
+    color: green;
+    margin-left: 170px;
+}
+
+.logo {
+    position: absolute;
+    height: 70px;
+    left: 7px;
+    top: 7px;
+}
+
+.arbeid {
+    position: absolute;
+    border-radius: 40%;
+    left: 212px;
+    top: 400px;
+}
+
+.overskrift2 {
+    position: absolute;
+    text-align: top;
+    text-align: left;
+    margin-top: 400px;
+    margin-left: 180px;
+}
+
+.tekst4 {
+    position: absolute;
+    text-align: top;
+    text-align: left;
+    margin-top: 500px;
+    margin-left: 180px;
+}
+
+.tekst5 {
+    position: absolute;
+    text-align: top;
+    text-align: left;
+    margin-top: 520px;
+    margin-left: 180px;
+}
+
+.tekst6 {
+    position: absolute;
+    text-align: top;
+    text-align: left;
+    margin-top: 540px;
+    margin-left: 180px;
+}
+
+.kontakt {
+    position: absolute;
+    text-align: left;
+    text-align: top;
+    margin-top: 1040px;
+    margin-left: 180px;
+}
+
+.e-post {
+    
+}
+
+.github {
+
+}
