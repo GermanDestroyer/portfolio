@@ -129,14 +129,32 @@
     position: absolute;
     text-align: left;
     text-align: top;
-    margin-top: 1040px;
+    margin-top: 1140px;
     margin-left: 180px;
 }
 
 .e-post {
-    
+    position: absolute;
+    margin-left: 45px;
+    margin-top: -40px;
 }
 
 .github {
+    position: absolute;
+    margin-left: 52px;
+    margin-top: -40px;
+    padding-bottom: 300px;
+}
 
+.overskrift3 {
+    position: absolute;
+    margin-top: -90px;
+}
+
+.bilde1 {
+    position: absolute;
+    width: 456px;
+    height: auto;
+    margin-left: 900px;
+    margin-top: -200px;
 }
